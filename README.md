@@ -1,8 +1,8 @@
 # learning-finops
 
 
-[FinOps](https://www.finops.org/introduction/what-is-finops/)
-[FinOps For Engineers](https://learn.finops.org/path/finops-for-engineers)
+- [FinOps](https://www.finops.org/introduction/what-is-finops/)
+- [FinOps For Engineers](https://learn.finops.org/path/finops-for-engineers)
 
 ``` 
 Introduction to FinOps for Engineers
