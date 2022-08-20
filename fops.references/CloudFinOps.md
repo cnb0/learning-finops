@@ -1,5 +1,5 @@
 ```
-1: Why FinOps?
+ 1: Why FinOps?
  2: What is FinOps?
  3: Cultural Shift and the FinOps Team
  4: The Language of FinOps and Cloud
