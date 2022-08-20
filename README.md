@@ -5,15 +5,15 @@
 - [FinOps For Engineers](https://learn.finops.org/path/finops-for-engineers)
 
 ``` 
-Introduction to FinOps for Engineers
-Benefits of Cost Efficiency for Engineers
-FinOps Persona Motivations
-Building a Common Language
-Responsibilities of Engineers
-Cost Efficiency Responsibilities
-Optimizing Usage Function Responsibilities
-Aligning Responsibilities with Related Functions in Business
-Responsibilities in Cloud Adoption Support and FinOps Rollout
+- Introduction to FinOps for Engineers
+- Benefits of Cost Efficiency for Engineers
+- FinOps Persona Motivations
+- Building a Common Language
+- Responsibilities of Engineers
+- Cost Efficiency Responsibilities
+- Optimizing Usage Function Responsibilities
+- Aligning Responsibilities with Related Functions in Business
+- Responsibilities in Cloud Adoption Support and FinOps Rollout
 ```
 ```
 1.Describe 
@@ -29,7 +29,7 @@ Responsibilities in Cloud Adoption Support and FinOps Rollout
     - The fundamental capabilities and functions needed to manage public cloud cost & usage
 
 4.Describe the responsibilities of engineering and operations team members in 
-  the performance of those functions
+      the performance of those functions
 
 5.Enumerate how the engineer’s job has changed from on-premises traditional IT to cloud
 
