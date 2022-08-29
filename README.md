@@ -3,7 +3,7 @@
 
 - [FinOps](https://www.finops.org/introduction/what-is-finops/)
 - [FinOps For Engineers](https://learn.finops.org/path/finops-for-engineers)
-
+- [FinOps Refs](https://nubenetes.com/finops/)
 ``` 
 - Introduction to FinOps for Engineers
 - Benefits of Cost Efficiency for Engineers
