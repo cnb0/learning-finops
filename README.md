@@ -63,13 +63,16 @@
     - The fundamental capabilities and functions needed to manage public cloud 
       cost & usage
 
-3.Describe the responsibilities of engineering and operations team members in the performance of those functions
+3.Describe the responsibilities of engineering and operations team members in 
+  the performance of those functions
 
-4.Enumerate how the engineer’s job has changed from on-premises traditional IT to cloud
+4.Enumerate how the engineer’s job has changed from on-premises traditional IT 
+  to cloud
 
 5.Explain 
 
-     - strategies engineers can take to integrate cost awareness into architecture, design, build and operate processes
-     - strategies for engineering and operations teams to better integrate with other functional groups to derive 
-        more value from public cloud use
+     - strategies engineers can take to integrate cost awareness into architecture, 
+       design,build and operate processes
+     - strategies for engineering and operations teams to better integrate with other 
+       functional groups to derive more value from public cloud use
 ```
