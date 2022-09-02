@@ -40,7 +40,7 @@
 - Understand the basics of how cloud computing works, know the key 
   services on your cloud providers, including their common use cases
 - basic understanding of billing and pricing models.
-- Be able to describe the basic value proposition of running in cloud and 
+- Be able to describe the basic value proposition of running in cloud & 
    understand the core concept of using a pay-as-you-go consumption model.
 - Have a base level of knowledge of at least one of the three main 
   public cloud providers (AWS, Azure, Google Cloud). For AWS
