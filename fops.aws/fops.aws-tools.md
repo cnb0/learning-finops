@@ -13,16 +13,16 @@
  9. RI and SP Coverage and Utilization
 10. Interpret RI recommendations
 11. Purchase RI and SP
-    ```
+  
         - How to Look Up AWS Pricing?
         - RI/SP Discount Variation Deep Dive
         - Compare RI vs SP Technical Differences
         - Reserved Instances vs Savings Plans Strategies
-    ```
+   
  12. Budget Overview
- ```
+ 
        - Set up a Cost Budget
-        - Create a Usage Budget (Data Transfer)
-        - Automatic Alerts for Low Savings Plan Utilization
-        - Subscribe to Summary Budget Reports
-```
+       - Create a Usage Budget (Data Transfer)
+       - Automatic Alerts for Low Savings Plan Utilization
+       - Subscribe to Summary Budget Reports
+ 
