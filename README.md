@@ -10,7 +10,7 @@
      - Track and Allocate Your IT Cost
      - Optimize and Save Your IT Cost 
      
- - [Maximizing Savings AWSPlan](https://www.densify.com/articles/maximizing-aws-savings-plans)
+ - [Maximizing AWS Savings Plan](https://www.densify.com/articles/maximizing-aws-savings-plans)
 
 - AWS Solutions 
      - AWS Cost Explorer
