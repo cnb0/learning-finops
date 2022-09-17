@@ -11,6 +11,8 @@
      - Optimize and Save Your IT Cost 
      
  - [Maximizing AWS Savings Plan](https://www.densify.com/articles/maximizing-aws-savings-plans)
+ - [AWS Cost Management](https://ramchandra-vadranam.medium.com/aws-cost-management-finops-69879b8bd2fa)
+ - [AWS lambda Cost Optimization](https://ramchandra-vadranam.medium.com/following-are-key-factors-affecting-the-performance-of-serverless-applications-8582b0a33e21)
 
 - AWS Solutions 
      - AWS Cost Explorer
