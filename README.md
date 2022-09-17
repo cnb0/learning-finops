@@ -4,15 +4,18 @@
 - [FinOps](https://www.finops.org/introduction/what-is-finops/)
 - [FinOps For Engineers](https://learn.finops.org/path/finops-for-engineers)
 - [FinOps Refs](https://nubenetes.com/finops/)
+- [FinOps- Cloud Cost Management tools](https://cast.ai/blog/cloud-cost-management-software-top-6-solutions-for-2022/)
+
 - [AWS FinOps](https://aws.amazon.com/aws-cost-management/)
      - Strategic IT Planning and Evaluation
      - Manage Billing and Control Cost
      - Track and Allocate Your IT Cost
      - Optimize and Save Your IT Cost 
-     
+ - [AWS EC2 Cost Calculator](https://compute-cost.com/)    
  - [Maximizing AWS Savings Plan](https://www.densify.com/articles/maximizing-aws-savings-plans)
  - [AWS Cost Management](https://ramchandra-vadranam.medium.com/aws-cost-management-finops-69879b8bd2fa)
  - [AWS lambda Cost Optimization](https://ramchandra-vadranam.medium.com/following-are-key-factors-affecting-the-performance-of-serverless-applications-8582b0a33e21)
+ - [k8s HPA](https://cast.ai/blog/what-is-kubernetes-hpa-and-how-can-it-help-you-save-on-the-cloud/)
 
 - AWS Solutions 
      - AWS Cost Explorer
