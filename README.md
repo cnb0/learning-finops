@@ -13,6 +13,7 @@
      - Manage Billing and Control Cost
      - Track and Allocate Your IT Cost
      - Optimize and Save Your IT Cost 
+ - [AWS Cost Management Framework](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
  - [AWS EC2 Cost Calculator](https://compute-cost.com/)    
  - [Maximizing AWS Savings Plan](https://www.densify.com/articles/maximizing-aws-savings-plans)
  - [AWS Cost Management](https://ramchandra-vadranam.medium.com/aws-cost-management-finops-69879b8bd2fa)
@@ -48,7 +49,7 @@
 
 - Understand the basics of how cloud computing works, know the key 
   services on your cloud providers, including their common use cases
-- basic understanding of billing and pricing models.
+- Basic understanding of billing and pricing models.
 - Be able to describe the basic value proposition of running in cloud & 
    understand the core concept of using a pay-as-you-go consumption model.
 - Have a base level of knowledge of at least one of the three main 
