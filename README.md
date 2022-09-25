@@ -2,6 +2,8 @@
 
 
 - [FinOps](https://www.finops.org/introduction/what-is-finops/)
+- [FinOps Terminology](https://www.finops.org/resources/terminology/)
+- [FinOps Survey 2022](https://data.finops.org/)
 - [FinOps For Engineers](https://learn.finops.org/path/finops-for-engineers)
 - [FinOps Refs](https://nubenetes.com/finops/)
 - [FinOps- Cloud Cost Management tools](https://cast.ai/blog/cloud-cost-management-software-top-6-solutions-for-2022/)
