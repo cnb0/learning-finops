@@ -14,6 +14,7 @@
      - Track and Allocate Your IT Cost
      - Optimize and Save Your IT Cost 
  - [AWS Cost Management Framework](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
+ - [AWS Cost Optimization Labs](https://www.wellarchitectedlabs.com/cost/)
  - [AWS EC2 Cost Calculator](https://compute-cost.com/)    
  - [Maximizing AWS Savings Plan](https://www.densify.com/articles/maximizing-aws-savings-plans)
  - [AWS Cost Management](https://ramchandra-vadranam.medium.com/aws-cost-management-finops-69879b8bd2fa)
